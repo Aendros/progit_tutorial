@@ -1,0 +1,4 @@
+Tutorial de vim, siguiendo el libro Pro_Git
+
+Prueba dos, comprobar que un fichero en estado "staged", al ser modificado, necesitará ser añadido de nuevo
+para que git lo pase a staged.
