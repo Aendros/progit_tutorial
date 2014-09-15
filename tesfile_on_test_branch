@@ -12,3 +12,7 @@ above comment.
 
 ---> Ok now on test branch, we can see that the comments added on the master branch does not appear,
 as happen with the # in the above coment. Let's see what happend if I try to merge now on master branch.
+
+---> On branch master again
+We keep our # in the comments above and the comment added on branch test was succesfully added. I should start
+reading the book again. There are some points that i don't have very clear.....
