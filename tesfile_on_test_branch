@@ -10,4 +10,5 @@ We have merged without problems again the two branch, but what happens if i modi
 and then add new content to the test branch on this file? Let's see. We added the # to the 
 above comment.
 
-
+---> Ok now on test branch, we can see that the comments added on the master branch does not appear,
+as happen with the # in the above coment. Let's see what happend if I try to merge now on master branch.
