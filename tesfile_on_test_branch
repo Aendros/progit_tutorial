@@ -1,3 +1,8 @@
 Here is a file in the new created branch test. This file can be merged in the master 
 branch after revision, or rebase as you wish.
 
+Ok, now we had already merged "test" branch on our main branch "master".
+Now, we make some changes on this file, to test the ability of git, and try
+merging our new modified file in the main branch. Let's see what's happend.
+
+
